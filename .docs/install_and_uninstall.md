@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/TwrapKit -->
-
 # Installation
 `install.sh` optional options (can be used together):
 - `--home=<path>`
@@ -25,5 +23,3 @@ bash TwrapKit/install.sh <option>
 export prefix="${PREFIX:-/usr}"
 bash $prefix/opt/twrapkit/uninstall.sh <option>
 ```
-
-<!-- Copyright (c) 2026 Zeronetsec -->

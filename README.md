@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/TwrapKit -->
-
 <div align="center">
     <img src="https://img.shields.io/badge/TwrapKit-Version%200.1-blue?style=square&logo=go&v=1" />
     <img src="https://img.shields.io/badge/Supported%20OS-Android-blue?style=square&logo=android&v=1" />
@@ -40,5 +38,3 @@ twrapkit --telephony-deviceinfo
 twrapkit --contact-list
 ```
 And more commands.
-
-<!-- Copyright (c) 2026 Zeronetsec -->

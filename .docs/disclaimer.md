@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/TwrapKit -->
-
 # DISCLAIMER
 ## **Version 0.1 (Experimental Status)**
 This tool is currently in its early **v0.1** stage and is considered **unstable**. </br>
@@ -21,5 +19,3 @@ Download from the official F-Droid repository: [f-droid.org/id/packages/com.term
 Termux:API requires access to Android system features via user-granted permissions. </br>
 For TwrapKit to function properly, you must manually grant the required permissions (Camera, Contacts, Location, Telephone, etc.) when prompted by Android or through the App Info settings.
 - If a command fails or returns no data, ensure the corresponding permission has been granted to the Termux:API app.
-
-<!-- Copyright (c) 2026 Zeronetsec -->
