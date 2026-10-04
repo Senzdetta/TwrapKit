@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/wifiscaninfo"
+    "github.com/Senzdetta/TwrapKit/module/wifiscaninfo"
 )
 
 type WifiScanInfo struct{}
@@ -11,4 +11,4 @@ func (c WifiScanInfo) Execute(args []string) {
     wifiscaninfo.WFScan()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

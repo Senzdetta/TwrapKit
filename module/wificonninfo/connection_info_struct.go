@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package wificonninfo
 
@@ -15,4 +15,4 @@ type ConnectionInfo struct {
     SupplicantState string `json:"supplicant_state"`
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

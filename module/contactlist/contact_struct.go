@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package contactlist
 
@@ -7,4 +7,4 @@ type Contact struct {
     Number string `json:"number"`
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

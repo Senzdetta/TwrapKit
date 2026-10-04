@@ -1,10 +1,10 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package contactlist
 
 import (
     "fmt"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/color"
 )
 
 func inprint(list []Contact) {
@@ -45,4 +45,4 @@ func inprint(list []Contact) {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

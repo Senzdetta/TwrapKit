@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package service
 
@@ -19,4 +19,4 @@ func parser(output string) string {
     return match[1]
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

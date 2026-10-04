@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/calllog"
+    "github.com/Senzdetta/TwrapKit/module/calllog"
 )
 
 type CallLog struct{}
@@ -11,4 +11,4 @@ func (c CallLog) Execute(args []string) {
     calllog.Dump()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

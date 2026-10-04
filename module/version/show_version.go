@@ -1,17 +1,17 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package version
 
 import (
     "fmt"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/color"
 )
 
 const (
     name = "TwrapKit"
     version = "v0.1.04102026"
-    creator = "Zeronetsec"
-    homepage = "https://github.com/Zeronetsec/TwrapKit"
+    creator = "Senzdetta"
+    homepage = "https://github.com/Senzdetta/TwrapKit"
 )
 
 func ShowVersion() {
@@ -36,4 +36,4 @@ func ShowVersion() {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

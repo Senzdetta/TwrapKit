@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package camerainfo
 
@@ -7,4 +7,4 @@ type PhysicalSize struct {
     Height float64 `json:"height"`
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

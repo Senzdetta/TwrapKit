@@ -1,12 +1,12 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package camerainfo
 
 import (
     "fmt"
     "encoding/json"
-    "github.com/Zeronetsec/TwrapKit/utils/shell"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/shell"
+    "github.com/Senzdetta/TwrapKit/utils/color"
 )
 
 func CamInfo() {
@@ -33,4 +33,4 @@ func CamInfo() {
     inprint(cams)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

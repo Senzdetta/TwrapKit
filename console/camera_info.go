@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/camerainfo"
+    "github.com/Senzdetta/TwrapKit/module/camerainfo"
 )
 
 type CameraInfo struct{}
@@ -11,4 +11,4 @@ func (c CameraInfo) Execute(args []string) {
     camerainfo.CamInfo()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

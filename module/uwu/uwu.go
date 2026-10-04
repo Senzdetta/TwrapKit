@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package uwu
 
@@ -38,4 +38,4 @@ func Uwu(duration time.Duration) {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

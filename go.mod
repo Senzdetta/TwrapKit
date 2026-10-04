@@ -1,3 +1,3 @@
-module github.com/Zeronetsec/TwrapKit
+module github.com/Senzdetta/TwrapKit
 
-go 1.27.0
+go 1.27.1

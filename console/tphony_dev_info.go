@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/tphonydevinfo"
+    "github.com/Senzdetta/TwrapKit/module/tphonydevinfo"
 )
 
 type TPhonyDevInfo struct{}
@@ -11,4 +11,4 @@ func (c TPhonyDevInfo) Execute(args []string) {
     tphonydevinfo.TDevInfo()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

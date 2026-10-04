@@ -1,10 +1,10 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
     "os"
-    "github.com/Zeronetsec/TwrapKit/utils/invinput"
+    "github.com/Senzdetta/TwrapKit/utils/invinput"
 )
 
 func TwrapKitConsole(input string) {
@@ -37,4 +37,4 @@ func TwrapKitConsole(input string) {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

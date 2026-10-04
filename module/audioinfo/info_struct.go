@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package audioinfo
 
@@ -15,4 +15,4 @@ type Info struct {
     WiredHeadset bool `json:"WIREDHEADSET_IS_CONNECTED"`
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package color
 
@@ -12,4 +12,4 @@ const (
     WW = "\x1b[0;37m"
 )
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

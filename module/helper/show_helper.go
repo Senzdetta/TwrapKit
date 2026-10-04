@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package helper
 
@@ -7,9 +7,9 @@ import (
     "fmt"
     "encoding/json"
     "io/fs"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
-    "github.com/Zeronetsec/TwrapKit/utils/birthday"
-    "github.com/Zeronetsec/TwrapKit/utils/banner"
+    "github.com/Senzdetta/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/birthday"
+    "github.com/Senzdetta/TwrapKit/utils/banner"
 )
 
 //go:embed metadata/*
@@ -68,4 +68,4 @@ func ShowHelper() {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

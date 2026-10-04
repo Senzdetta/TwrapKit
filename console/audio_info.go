@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/audioinfo"
+    "github.com/Senzdetta/TwrapKit/module/audioinfo"
 )
 
 type AudioInfo struct{}
@@ -11,4 +11,4 @@ func (c AudioInfo) Execute(args []string) {
     audioinfo.Audio()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

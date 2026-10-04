@@ -7,7 +7,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/TwrapKit
+git clone https://github.com/Senzdetta/TwrapKit
 bash TwrapKit/install.sh <option>
 ```
 

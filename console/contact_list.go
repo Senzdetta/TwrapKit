@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/contactlist"
+    "github.com/Senzdetta/TwrapKit/module/contactlist"
 )
 
 type ContactList struct{}
@@ -11,4 +11,4 @@ func (c ContactList) Execute(args []string) {
     contactlist.DumpList()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

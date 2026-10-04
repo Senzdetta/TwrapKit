@@ -1,12 +1,12 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
     "time"
     "fmt"
-    "github.com/Zeronetsec/TwrapKit/module/uwu"
-    "github.com/Zeronetsec/TwrapKit/utils/cursor"
+    "github.com/Senzdetta/TwrapKit/module/uwu"
+    "github.com/Senzdetta/TwrapKit/utils/cursor"
 )
 
 type UWU struct{}
@@ -18,4 +18,4 @@ func (c UWU) Execute(args []string) {
     fmt.Println()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package banner
 
 import (
     "embed"
     "fmt"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/color"
 )
 
 //go:embed ascii/*.txt
@@ -27,4 +27,4 @@ func Show() {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

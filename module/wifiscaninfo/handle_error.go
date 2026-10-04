@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package wifiscaninfo
 
 import (
     "fmt"
     "encoding/json"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/color"
 )
 
 func handleError(data string) {
@@ -34,4 +34,4 @@ func handleError(data string) {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

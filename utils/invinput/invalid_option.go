@@ -1,10 +1,10 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package invinput
 
 import (
     "fmt"
-    "github.com/Zeronetsec/TwrapKit/utils/color"
+    "github.com/Senzdetta/TwrapKit/utils/color"
 )
 
 func InvalidOption(input string) {
@@ -19,4 +19,4 @@ func InvalidOption(input string) {
     )
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

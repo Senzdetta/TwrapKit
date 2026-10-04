@@ -1,9 +1,9 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package console
 
 import (
-    "github.com/Zeronetsec/TwrapKit/module/batterystat"
+    "github.com/Senzdetta/TwrapKit/module/batterystat"
 )
 
 type BatteryStatus struct{}
@@ -11,4 +11,4 @@ func (c BatteryStatus) Execute(args []string) {
     batterystat.Battery()
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

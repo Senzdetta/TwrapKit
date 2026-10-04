@@ -1,11 +1,11 @@
-// https://github.com/Zeronetsec/TwrapKit
+// https://github.com/Senzdetta/TwrapKit
 
 package main
 
 import (
     "os"
     "strings"
-    "github.com/Zeronetsec/TwrapKit/console"
+    "github.com/Senzdetta/TwrapKit/console"
 )
 
 func main() {
@@ -14,4 +14,4 @@ func main() {
     console.TwrapKitConsole(input)
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta
