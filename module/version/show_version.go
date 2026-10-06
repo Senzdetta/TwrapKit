@@ -10,14 +10,14 @@ import (
 const (
     name = "TwrapKit"
     version = "v0.1.06102026"
-    creator = "Senzdetta"
+    developer = "Senzdetta"
     homepage = "https://github.com/Senzdetta/TwrapKit"
 )
 
 func ShowVersion() {
     fmt.Printf(
-        "%sName: %s%s%s\n",
-        color.N, color.GG, name, color.N,
+        "%s- %s%s %s-%s\n",
+        color.DG, color.GG, name, color.DG, color.N,
     )
 
     fmt.Printf(
@@ -26,8 +26,8 @@ func ShowVersion() {
     )
 
     fmt.Printf(
-        "%sCreator: %s%s%s\n",
-        color.N, color.GG, creator, color.N,
+        "%sDeveloper: %s%s%s\n",
+        color.N, color.GG, developer, color.N,
     )
 
     fmt.Printf(
