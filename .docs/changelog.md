@@ -8,4 +8,6 @@
 ### 2026-10-08
 ```text
 1. Added logic so that the --uwu output is fixed as "(・ω・)" instead of being random.
+
+2. Removing utils/cursor package.
 ```
