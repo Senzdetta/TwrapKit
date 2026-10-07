@@ -9,7 +9,7 @@ import (
 
 const (
     name = "TwrapKit"
-    version = "v0.1.07102026"
+    version = "v0.1.20261007"
     developer = "Senzdetta"
     homepage = "https://github.com/Senzdetta/TwrapKit"
 )
