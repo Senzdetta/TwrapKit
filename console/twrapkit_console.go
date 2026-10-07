@@ -17,7 +17,7 @@ func TwrapKitConsole(input string) {
     commands := map[string]Command{
         "--help": Helper{},
         "--version": Version{},
-        "--uwu": UWU{},
+        "--uwu": Uwu{},
         "--service": Service{},
         "--audio-info": AudioInfo{},
         "--battery-status": BatteryStatus{},

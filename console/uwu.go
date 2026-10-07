@@ -6,9 +6,9 @@ import (
     "github.com/Senzdetta/TwrapKit/module/uwu"
 )
 
-type UWU struct{}
-func (c UWU) Execute(args []string) {
-    uwu.Uwu()
+type Uwu struct{}
+func (c Uwu) Execute(args []string) {
+    uwu.Run()
 }
 
 // Copyright (c) 2026 Senzdetta
