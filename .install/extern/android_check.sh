@@ -44,6 +44,7 @@ function install::extern::androidCheck() {
         return 1
     }
 
+    echo -e "${color_B}[*] ${color_N}Checking application: ${color_GG}com.termux.api${color_N}"
     local termux_api="$(
         command am start -n \
             'com.termux.api/invalid.activity' \
@@ -56,7 +57,7 @@ function install::extern::androidCheck() {
     [[
         "${termux_api}" != *"does not exist"*
     ]]; then
-        echo -e "${color_R}[!] ${color_N}Termux:API not installed!"
+        echo -e "${color_R}[!] ${color_N}Application: ${color_GG}com.termux.api ${color_N}not installed!"
         return 1
     fi
 }; readonly -f install::extern::androidCheck
